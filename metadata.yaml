@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35232
     wikipedia: http://fr.wikipedia.org/wiki/%C3%89tienne-Jean_Del%C3%A9cluze
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31441#Louis-David-Son-Ecole-et-Son-Temps--Souvenirs
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2010-02-28'
 gutenberg_type: Text
