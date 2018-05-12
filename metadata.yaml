@@ -1,0 +1,33 @@
+_repo: Louis-David-Son-Ecole-et-Son-Temps--Souvenirs_31441
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Delécluze, E. J. (Etienne Jean)
+    aliases:
+    - Delecluze, E. J. (Etienne Jean)
+    - Delécluze, Etienne Jean
+    - Delécluze, Etienne-Jean
+    birthdate: 1781
+    deathdate: 1863
+    gutenberg_agent_id: '35232'
+    url: http://www.gutenberg.org/2009/agents/35232
+    wikipedia: http://fr.wikipedia.org/wiki/%C3%89tienne-Jean_Del%C3%A9cluze
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2010-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31441'
+  lccn: sd18000087
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'David, Jacques Louis, 1748-1825'
+- !lcc 'ND'
+title: 'Louis David, Son Ecole et Son Temps: Souvenirs'
+url: http://www.gutenberg.org/ebooks/31441
